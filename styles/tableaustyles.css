@@ -1,0 +1,10 @@
+.backimg {
+    background-image: url(tableaubackground.jpg)
+}
+
+.header {
+    font-size: x-large;
+    font-style: italic ;
+    color: darkslategrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
